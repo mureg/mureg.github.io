@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.0538c1f1.chunk.js",
-    "main.js.map": "/static/js/main.0538c1f1.chunk.js.map",
+    "main.js": "/static/js/main.e057e917.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3f39a091.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3f39a091.js.map",
-    "static/js/2.756ad082.chunk.js": "/static/js/2.756ad082.chunk.js",
-    "static/js/2.756ad082.chunk.js.map": "/static/js/2.756ad082.chunk.js.map",
+    "static/css/2.048b0c4d.chunk.css": "/static/css/2.048b0c4d.chunk.css",
+    "static/js/2.73ba7b3a.chunk.js": "/static/js/2.73ba7b3a.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.756ad082.chunk.js.LICENSE.txt": "/static/js/2.756ad082.chunk.js.LICENSE.txt"
+    "static/js/2.73ba7b3a.chunk.js.LICENSE.txt": "/static/js/2.73ba7b3a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/noto-sans-tc-all-400-normal.b52f8cbf.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.3f39a091.js",
-    "static/js/2.756ad082.chunk.js",
-    "static/js/main.0538c1f1.chunk.js"
+    "static/css/2.048b0c4d.chunk.css",
+    "static/js/2.73ba7b3a.chunk.js",
+    "static/js/main.e057e917.chunk.js"
   ]
 }
